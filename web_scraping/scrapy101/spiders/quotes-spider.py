@@ -57,3 +57,6 @@ class QuotesSpider(sp.Spider):
         loader.add_css('author_bornlocation','.author-born-location::text')
         loader.add_css('author_bio','.author-description::text')
         yield loader.load_item()
+    
+
+    def parse_products(self, response):
