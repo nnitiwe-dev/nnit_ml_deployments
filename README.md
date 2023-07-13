@@ -3,8 +3,10 @@ This project aims to provide a collection of machine learning tools and examples
 
 ## Table of Content - Working with:
 - [x]  Web Scraping
-    - **[Scraping Quotes 101](https://github.com/nnitiwe-dev/nnit_ml_deployments/tree/main/web_scraping)**: Scrapy
-    - **[Scraping ResearchGate](https://github.com/nnitiwe-dev/nnit_ml_deployments/tree/main/publications_search)**:Scrapy + Elastic Search
+    - **[Scraping Quotes 101](https://github.com/nnitiwe-dev/nnit_ml_deployments/tree/main/scrapy/web_scraping)**: Scrapy
+    - **[Scraping ResearchGate](https://github.com/nnitiwe-dev/nnit_ml_deployments/tree/main/scrapy/publications_search)**:Scrapy + Elastic Search
+- [x] - **Apache Airflow**
+    - [Author, schedule and monitor data modeling workflow](https://github.com/nnitiwe-dev/nnit_ml_deployments/tree/main/airflow/ecommerce)
 - [ ] - **Apache Kafka**: Data streaming
 - [ ]  - **Docker**: Container & Virtualization
 - [ ] - **Apache Pyspark**: Parallel processing
