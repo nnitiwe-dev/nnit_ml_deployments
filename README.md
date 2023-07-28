@@ -8,6 +8,7 @@ This project aims to provide a collection of machine learning tools and examples
 - [x] - **Apache Airflow**
     - [Author, schedule and monitor data modeling workflow](https://github.com/nnitiwe-dev/nnit_ml_deployments/tree/main/airflow/ecommerce)
 - [ ] - **Apache Kafka**: Data streaming
+    - **[NASA API](https://github.com/nnitiwe-dev/nnit_ml_deployments/tree/main/kafka/nasa): Kafka + Elastic Search + Kibana
 - [ ]  - **Docker**: Container & Virtualization
 - [ ] - **Apache Pyspark**: Parallel processing
 - [ ] - **Prefect**: Data Pipeline
