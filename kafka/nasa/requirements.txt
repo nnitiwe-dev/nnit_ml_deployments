@@ -1,0 +1,2 @@
+kafka-python
+elasticsearch-dsl==7.0.0
